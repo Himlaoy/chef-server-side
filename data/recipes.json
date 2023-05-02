@@ -1,0 +1,196 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "Wang Li",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 50,
+      "likes": 10000,
+      "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
+      "recipes": [
+        {
+          "recipeName": "Mapo Tofu",
+          "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
+          "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
+          "rating": 4.5,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Kung Pao Chicken",
+          "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
+          "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
+          "rating": 4.7,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Hot Pot",
+          "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
+          "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
+          "rating": 4.9,
+          "favoriteButton": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "Wang Li",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 50,
+      "likes": 10000,
+      "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
+      "recipes": [
+        {
+          "recipeName": "Mapo Tofu",
+          "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
+          "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
+          "rating": 4.5,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Kung Pao Chicken",
+          "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
+          "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
+          "rating": 4.7,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Hot Pot",
+          "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
+          "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
+          "rating": 4.9,
+          "favoriteButton": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "Wang Li",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 50,
+      "likes": 10000,
+      "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
+      "recipes": [
+        {
+          "recipeName": "Mapo Tofu",
+          "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
+          "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
+          "rating": 4.5,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Kung Pao Chicken",
+          "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
+          "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
+          "rating": 4.7,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Hot Pot",
+          "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
+          "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
+          "rating": 4.9,
+          "favoriteButton": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "Wang Li",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 50,
+      "likes": 10000,
+      "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
+      "recipes": [
+        {
+          "recipeName": "Mapo Tofu",
+          "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
+          "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
+          "rating": 4.5,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Kung Pao Chicken",
+          "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
+          "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
+          "rating": 4.7,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Hot Pot",
+          "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
+          "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
+          "rating": 4.9,
+          "favoriteButton": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "Wang Li",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 50,
+      "likes": 10000,
+      "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
+      "recipes": [
+        {
+          "recipeName": "Mapo Tofu",
+          "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
+          "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
+          "rating": 4.5,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Kung Pao Chicken",
+          "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
+          "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
+          "rating": 4.7,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Hot Pot",
+          "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
+          "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
+          "rating": 4.9,
+          "favoriteButton": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "Wang Li",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 50,
+      "likes": 10000,
+      "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
+      "recipes": [
+        {
+          "recipeName": "Mapo Tofu",
+          "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
+          "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
+          "rating": 4.5,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Kung Pao Chicken",
+          "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
+          "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
+          "rating": 4.7,
+          "favoriteButton": false
+        },
+        {
+          "recipeName": "Hot Pot",
+          "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
+          "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
+          "rating": 4.9,
+          "favoriteButton": false
+        }
+      ]
+    }
+    
+    
+]
