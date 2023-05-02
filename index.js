@@ -1,8 +1,11 @@
 const express = require('express')
 const app = express()
 const recipes = require('./data/recipes.json')
+const cors = require('cors')
 const port = 5000
 
+
+app.use(cors())
 
 app.get('/', (req, res)=>{
     res.send(recipes)
