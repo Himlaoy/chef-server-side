@@ -37,7 +37,7 @@
       "chefName": "Wang Li",
       "yearsOfExperience": 15,
       "numberOfRecipes": 50,
-      "likes": 10000,
+      
       "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
       "recipes": [
         {
@@ -69,7 +69,7 @@
       "chefName": "Wang Li",
       "yearsOfExperience": 15,
       "numberOfRecipes": 50,
-      "likes": 10000,
+      
       "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
       "recipes": [
         {
