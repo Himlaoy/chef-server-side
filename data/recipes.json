@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chefPicture": "https://example.com/chef1.jpg",
+      "chefPicture": "https://static.vecteezy.com/system/resources/previews/008/483/382/non_2x/asian-chef-woman-happy-smiling-with-kitchen-pan-in-red-uniform-and-white-hat-free-png.png",
       "chefName": "Wang Li",
       "yearsOfExperience": 15,
       "numberOfRecipes": 50,
@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "chefPicture": "https://example.com/chef1.jpg",
+      "chefPicture": "https://media.istockphoto.com/id/1213660289/photo/young-beautiful-chinese-chef-woman-wearing-cooker-uniform-and-hat-holding-tray-with-dome-with.jpg?s=612x612&w=0&k=20&c=Acr3SpWXvGhElDWXTo2Z7hfc7jpUQrXJuOs9SzuZEHA=",
       "chefName": "Wang Li",
       "yearsOfExperience": 15,
       "numberOfRecipes": 50,
@@ -65,7 +65,7 @@
     },
     {
       "id": 3,
-      "chefPicture": "https://example.com/chef1.jpg",
+      "chefPicture": "https://img.lanniuzai.com/img/1M/bji05480078.jpg",
       "chefName": "Wang Li",
       "yearsOfExperience": 15,
       "numberOfRecipes": 50,
@@ -97,7 +97,7 @@
     },
     {
       "id": 4,
-      "chefPicture": "https://example.com/chef1.jpg",
+      "chefPicture": "https://img.lovepik.com/free-png/20211109/lovepik-chef-chefs-png-image_400638316_wh1200.png",
       "chefName": "Wang Li",
       "yearsOfExperience": 15,
       "numberOfRecipes": 50,
