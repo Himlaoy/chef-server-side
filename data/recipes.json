@@ -9,6 +9,8 @@
       "chefDescription": "Chef Wang Li is a master of Sichuan cuisine, known for his bold flavors and fiery spices.",
       "recipes": [
         {
+          "id" : 1,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS0xpbWMjoPaEHBFj2yYjWg39E5QryYVlJLg&usqp=CAU",
           "recipeName": "Mapo Tofu",
           "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
           "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
@@ -16,13 +18,16 @@
           "favoriteButton": false
         },
         {
-          "recipeName": "Kung Pao Chicken",
+          "id" : 2,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4midPMsIYMjvmEbgscizTo5idbVz8o13peEFfdGpS6w2F_HU13mtqLRPTEC6zIwLt58&usqp=CAU",
           "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
           "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
           "rating": 4.7,
           "favoriteButton": false
         },
         {
+          "id" : 3,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JGvLIC-ZQNaAAbkbNEZEa8EZ9q4GRb3IQQ&usqp=CAU",
           "recipeName": "Hot Pot",
           "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
           "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
@@ -42,6 +47,7 @@
       "recipes": [
         {
           "recipeName": "Mapo Tofu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS0xpbWMjoPaEHBFj2yYjWg39E5QryYVlJLg&usqp=CAU",
           "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
           "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
           "rating": 4.5,
@@ -49,6 +55,7 @@
         },
         {
           "recipeName": "Kung Pao Chicken",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4midPMsIYMjvmEbgscizTo5idbVz8o13peEFfdGpS6w2F_HU13mtqLRPTEC6zIwLt58&usqp=CAU",
           "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
           "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
           "rating": 4.7,
@@ -56,6 +63,7 @@
         },
         {
           "recipeName": "Hot Pot",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4midPMsIYMjvmEbgscizTo5idbVz8o13peEFfdGpS6w2F_HU13mtqLRPTEC6zIwLt58&usqp=CAU",
           "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
           "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
           "rating": 4.9,
@@ -74,6 +82,7 @@
       "recipes": [
         {
           "recipeName": "Mapo Tofu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4midPMsIYMjvmEbgscizTo5idbVz8o13peEFfdGpS6w2F_HU13mtqLRPTEC6zIwLt58&usqp=CAU",
           "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
           "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
           "rating": 4.5,
@@ -81,6 +90,7 @@
         },
         {
           "recipeName": "Kung Pao Chicken",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCUPfKOWPQsFgIODjgQCOjwSlMxNklwrH3Q&usqp=CAU",
           "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
           "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
           "rating": 4.7,
@@ -88,6 +98,7 @@
         },
         {
           "recipeName": "Hot Pot",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCUPfKOWPQsFgIODjgQCOjwSlMxNklwrH3Q&usqp=CAU",
           "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
           "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
           "rating": 4.9,
@@ -106,6 +117,7 @@
       "recipes": [
         {
           "recipeName": "Mapo Tofu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhFrED3LJdDS0USevDtBsnJCjaqghxjUWEw&usqp=CAU",
           "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
           "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
           "rating": 4.5,
@@ -113,6 +125,7 @@
         },
         {
           "recipeName": "Kung Pao Chicken",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhFrED3LJdDS0USevDtBsnJCjaqghxjUWEw&usqp=CAU",
           "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
           "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
           "rating": 4.7,
@@ -120,6 +133,7 @@
         },
         {
           "recipeName": "Hot Pot",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vVCZvgjsCCGlNqVruotdLhEdtlonZ8GGZDDUYaqnGtQsMoxfG4i9AhoyPjUqx_FnGHU&usqp=CAU",
           "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
           "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
           "rating": 4.9,
@@ -138,6 +152,7 @@
       "recipes": [
         {
           "recipeName": "Mapo Tofu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNX50wjfsgfyedSIM7B9Bn7X0xQZdn8KEXGA&usqp=CAU",
           "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
           "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
           "rating": 4.5,
@@ -145,6 +160,7 @@
         },
         {
           "recipeName": "Kung Pao Chicken",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNX50wjfsgfyedSIM7B9Bn7X0xQZdn8KEXGA&usqp=CAU",
           "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
           "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
           "rating": 4.7,
@@ -152,6 +168,7 @@
         },
         {
           "recipeName": "Hot Pot",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4odGyhbWg44UDHQoUAnO0QHLJ49P5yBBxBtQrtYGCpTCAJ9eLoglTK39vtYTZL_LCEI&usqp=CAU",
           "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
           "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
           "rating": 4.9,
@@ -170,6 +187,7 @@
       "recipes": [
         {
           "recipeName": "Mapo Tofu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4odGyhbWg44UDHQoUAnO0QHLJ49P5yBBxBtQrtYGCpTCAJ9eLoglTK39vtYTZL_LCEI&usqp=CAU",
           "ingredients": ["1 block of tofu", "1/2 lb. ground pork", "2 tbsp. doubanjiang", "1 tbsp. soy sauce", "1 tsp. sugar"],
           "cookingMethod": "1. Cut the tofu into small cubes and set aside. 2. In a hot wok, add the ground pork and cook until browned. 3. Add the doubanjiang and cook for 1-2 minutes. 4. Add the tofu, soy sauce, sugar, and 1/4 cup of water. 5. Simmer for 10-15 minutes until the sauce thickens. Serve hot.",
           "rating": 4.5,
@@ -177,13 +195,15 @@
         },
         {
           "recipeName": "Kung Pao Chicken",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXPL1fvix5zd063ru4z8_poEDE0eHeYIN0A&usqp=CAU",
           "ingredients": ["1 lb. boneless chicken thighs", "1/2 cup roasted peanuts", "3 tbsp. Sichuan peppercorns", "2 tbsp. soy sauce", "2 tbsp. rice vinegar"],
           "cookingMethod": "1. Cut the chicken into small cubes and set aside. 2. In a hot wok, add the Sichuan peppercorns and toast until fragrant. 3. Add the chicken and stir-fry until browned. 4. Add the soy sauce, rice vinegar, and peanuts. 5. Stir-fry for another 1-2 minutes. Serve hot.",
           "rating": 4.7,
           "favoriteButton": false
         },
         {
-          "recipeName": "Hot Pot",
+          "recipeName": "Chinese Boneless Spare Ribs",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXPL1fvix5zd063ru4z8_poEDE0eHeYIN0A&usqp=CAU",
           "ingredients": ["1 lb. thinly sliced beef", "1 lb. lamb shoulder, thinly sliced", "1 lb. shrimp, peeled and deveined", "1 lb. tofu, sliced", "1 bunch of enoki mushrooms, trimmed"],
           "cookingMethod": "1. Fill a hot pot with water or broth and bring to a boil. 2. Add the beef and lamb and cook until just cooked through. 3. Add the shrimp and tofu and cook for another minute or two. 4. Serve with dipping sauces.",
           "rating": 4.9,
